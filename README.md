@@ -75,7 +75,7 @@ Refer to exiv2 documentation (be aware that documentation on CanonCs key-value p
 #!/usr/bin/env bash
 find ./ -type f \( -iname \*.CR2 -o -iname \*.jpg -o -iname \*.xmp \) |
 xargs -I filename exiv2 -v -k \
--M"del Exif.CanonCs.LensType" \
+-M "del Exif.CanonCs.LensType" \
 -M "set Exif.Photo.LensSpecification 135/1 135/1 25/10 320/10" \
 -M "set Exif.CanonCs.MaxAperture 84" \
 -M "set Exif.Canon.LensModel 135mm f/2.5 03B" \
