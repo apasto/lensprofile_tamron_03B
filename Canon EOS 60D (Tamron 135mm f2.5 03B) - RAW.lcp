@@ -1,0 +1,233 @@
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+            xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+         <photoshop:CameraProfiles>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:ProfileName>Canon EOS 60D - Tamron 135mm f/2.5 03B</stCamera:ProfileName>
+                  <stCamera:Make>Canon</stCamera:Make>
+                  <stCamera:Model>Canon EOS 60D</stCamera:Model>
+                  <stCamera:UniqueCameraModel>Canon EOS 60D</stCamera:UniqueCameraModel>
+                  <stCamera:Lens>Tamron 135mm f/2.5 03B</stCamera:Lens>
+                  <stCamera:LensInfo>135/1 135/1 25/10 320/10</stCamera:LensInfo>
+                  <stCamera:ImageWidth>5202.000000</stCamera:ImageWidth>
+                  <stCamera:ImageLength>3465.000000</stCamera:ImageLength>
+                  <stCamera:FocalLength>135.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>2.643856</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Tamron 135mm f/2.5 03B</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>Canon EOS 60D</stCamera:CameraPrettyName>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>5.917881</stCamera:FocusDistance>
+                  <stCamera:SensorFormatFactor>1.567722</stCamera:SensorFormatFactor>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:FocalLengthX>5.864924</stCamera:FocalLengthX>
+                     <stCamera:FocalLengthY>5.864924</stCamera:FocalLengthY>
+                     <stCamera:ImageXCenter>0.538137</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.460970</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>0.320681</stCamera:RadialDistortParam1>
+                     <stCamera:ResidualMeanError>0.000057</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000032</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>5.865275</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>5.865275</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.538039</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.461289</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.320962</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000052</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000030</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999788</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>5.865275</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>5.865275</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.538039</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.461289</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000548</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000053</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000031</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999956</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>5.865275</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>5.865275</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.538039</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.461289</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.001347</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000053</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000031</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>5.864924</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>5.864924</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.538137</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.460970</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-43.761608</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-664.569397</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>200644.156250</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.025148</stCamera:ResidualMeanError>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:ProfileName>Canon EOS 60D - Tamron 135mm f/2.5 03B</stCamera:ProfileName>
+                  <stCamera:Make>Canon</stCamera:Make>
+                  <stCamera:Model>Canon EOS 60D</stCamera:Model>
+                  <stCamera:UniqueCameraModel>Canon EOS 60D</stCamera:UniqueCameraModel>
+                  <stCamera:Lens>Tamron 135mm f/2.5 03B</stCamera:Lens>
+                  <stCamera:LensInfo>135/1 135/1 25/10 320/10</stCamera:LensInfo>
+                  <stCamera:ImageWidth>5202.000000</stCamera:ImageWidth>
+                  <stCamera:ImageLength>3465.000000</stCamera:ImageLength>
+                  <stCamera:FocalLength>135.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Tamron 135mm f/2.5 03B</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>Canon EOS 60D</stCamera:CameraPrettyName>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>5.923690</stCamera:FocusDistance>
+                  <stCamera:SensorFormatFactor>1.567722</stCamera:SensorFormatFactor>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:FocalLengthX>5.867045</stCamera:FocalLengthX>
+                     <stCamera:FocalLengthY>5.867045</stCamera:FocalLengthY>
+                     <stCamera:ImageXCenter>0.542841</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.459845</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>0.260673</stCamera:RadialDistortParam1>
+                     <stCamera:ResidualMeanError>0.000065</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000036</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>5.867355</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>5.867355</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.542599</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.460621</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.262367</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000053</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000030</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999690</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>5.867355</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>5.867355</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.542599</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.460621</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.002950</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000053</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000031</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000095</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>5.867355</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>5.867355</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.542599</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.460621</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.003115</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000054</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000030</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>5.867045</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>5.867045</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.542841</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.459845</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-12.418509</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>646.249207</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>0.000000</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.012666</stCamera:ResidualMeanError>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:ProfileName>Canon EOS 60D - Tamron 135mm f/2.5 03B</stCamera:ProfileName>
+                  <stCamera:Make>Canon</stCamera:Make>
+                  <stCamera:Model>Canon EOS 60D</stCamera:Model>
+                  <stCamera:UniqueCameraModel>Canon EOS 60D</stCamera:UniqueCameraModel>
+                  <stCamera:Lens>Tamron 135mm f/2.5 03B</stCamera:Lens>
+                  <stCamera:LensInfo>135/1 135/1 25/10 320/10</stCamera:LensInfo>
+                  <stCamera:ImageWidth>5202.000000</stCamera:ImageWidth>
+                  <stCamera:ImageLength>3465.000000</stCamera:ImageLength>
+                  <stCamera:FocalLength>135.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Tamron 135mm f/2.5 03B</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>Canon EOS 60D</stCamera:CameraPrettyName>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>5.927063</stCamera:FocusDistance>
+                  <stCamera:SensorFormatFactor>1.567722</stCamera:SensorFormatFactor>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:FocalLengthX>5.867202</stCamera:FocalLengthX>
+                     <stCamera:FocalLengthY>5.867202</stCamera:FocalLengthY>
+                     <stCamera:ImageXCenter>0.541069</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.460482</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>0.263065</stCamera:RadialDistortParam1>
+                     <stCamera:ResidualMeanError>0.000067</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000038</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>5.867506</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>5.867506</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.540583</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.461157</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.264315</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000053</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000030</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999671</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>5.867506</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>5.867506</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.540583</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.461157</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.003381</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000053</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000032</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000123</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>5.867506</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>5.867506</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.540583</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.461157</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.003210</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000054</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000030</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>5.867202</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>5.867202</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.541068</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.460482</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-14.633364</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>932.316956</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>0.000000</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.009133</stCamera:ResidualMeanError>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+            </rdf:Seq>
+         </photoshop:CameraProfiles>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
