@@ -8,7 +8,7 @@ Personal preference applies in judging if it is worth applying or not.
 
 **TO DO: examples, ACR original/corrected, RawTherapee original/corrected**
 
-This LCP was generated using the [Adobe_Lens_Profile_Creator](https://helpx.adobe.com/camera-raw/digital-negative.html#Adobe_Lens_Profile_Creator) ([archived link](https://web.archive.org/web/20220127035413/https://helpx.adobe.com/camera-raw/digital-negative.html)).
+This LCP was generated using the [Adobe Lens Profile Creator](https://helpx.adobe.com/camera-raw/digital-negative.html#Adobe_Lens_Profile_Creator) ([archived link](https://web.archive.org/web/20220127035413/https://helpx.adobe.com/camera-raw/digital-negative.html)).
 
 This repository and their contributors are not affiliated with Tamron Co., Ltd. or with any of its subsidiary companies. Tamron Co., Ltd. and its subsidiaries neither endorse, control, nor claim any responsibility for the content and accuracy of the files provided in this repository.
 
@@ -20,7 +20,7 @@ lcp-to-lensfun conversion can be carried out with [lensfun-convert-lcp](https://
 
 ## Calibration configuration
 
-- chart: 19thinsp;×&thinsp;31 ISO A3 chart, Square Print Dimension 36 Pts.
+- chart: 19&thinsp;×&thinsp;31 ISO A3 chart, Square Print Dimension 36 Pts.
 - focal distance 6&thinsp;m
 - lighting was constant throughout the shots (due to the indoor setting), but uneven over the chart area
 - the small built-in collapsible lens hood was extended (its effect on vignetting seems negligible, due to its length compared to the focal length - this is reflected in its limited effectiveness in preventing flares)
@@ -47,7 +47,7 @@ It can be set afterwards in EXIF, e.g. with this exiv2 command:
 
 **TO DO: set aperture exiv2 one liner**
 
-## Setting
+## EXIF metadata for a manual lens:
 
 This example script sets all some of the relevant EXIF data, for all the files in a directory.
 Rembember to set the serial number.
